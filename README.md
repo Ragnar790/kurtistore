@@ -16,4 +16,4 @@ npm start
 
 I used Expo CLI to set up my project, and previewed the app on my `Redmi 4 (5.0 inches)` by scanning the QR code with the Expo app. 
 
-Default font on my android device `Roboto`.
+Default font-family on my android device `Roboto`.
